@@ -1,0 +1,15 @@
+C:\Reps\ilSmithXlab1\task2\Xlab2task2\bin\Debug\net8.0\Xlab2task2.exe
+C:\Reps\ilSmithXlab1\task2\Xlab2task2\bin\Debug\net8.0\Xlab2task2.deps.json
+C:\Reps\ilSmithXlab1\task2\Xlab2task2\bin\Debug\net8.0\Xlab2task2.runtimeconfig.json
+C:\Reps\ilSmithXlab1\task2\Xlab2task2\bin\Debug\net8.0\Xlab2task2.dll
+C:\Reps\ilSmithXlab1\task2\Xlab2task2\bin\Debug\net8.0\Xlab2task2.pdb
+C:\Reps\ilSmithXlab1\task2\Xlab2task2\obj\Debug\net8.0\Xlab2task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Reps\ilSmithXlab1\task2\Xlab2task2\obj\Debug\net8.0\Xlab2task2.AssemblyInfoInputs.cache
+C:\Reps\ilSmithXlab1\task2\Xlab2task2\obj\Debug\net8.0\Xlab2task2.AssemblyInfo.cs
+C:\Reps\ilSmithXlab1\task2\Xlab2task2\obj\Debug\net8.0\Xlab2task2.csproj.CoreCompileInputs.cache
+C:\Reps\ilSmithXlab1\task2\Xlab2task2\obj\Debug\net8.0\Xlab2task2.sourcelink.json
+C:\Reps\ilSmithXlab1\task2\Xlab2task2\obj\Debug\net8.0\Xlab2task2.dll
+C:\Reps\ilSmithXlab1\task2\Xlab2task2\obj\Debug\net8.0\refint\Xlab2task2.dll
+C:\Reps\ilSmithXlab1\task2\Xlab2task2\obj\Debug\net8.0\Xlab2task2.pdb
+C:\Reps\ilSmithXlab1\task2\Xlab2task2\obj\Debug\net8.0\Xlab2task2.genruntimeconfig.cache
+C:\Reps\ilSmithXlab1\task2\Xlab2task2\obj\Debug\net8.0\ref\Xlab2task2.dll
